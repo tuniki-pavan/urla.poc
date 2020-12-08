@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="22331" started-at="2020-12-07T15:36:01 EST" finished-at="2020-12-07T15:36:24 EST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="22331" started-at="2020-12-07T15:36:01 EST" finished-at="2020-12-07T15:36:24 EST">
+      <class name="usda.urla.poc.SearchInJPTest">
+        <test-method status="PASS" signature="f()[pri:0, instance:usda.urla.poc.SearchInJPTest@5e853265]" name="f" duration-ms="22305" started-at="2020-12-07T15:36:01 EST" finished-at="2020-12-07T15:36:24 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- usda.urla.poc.SearchInJPTest -->
+      <class name="usda.urla.poc.SearchInGoogleTest">
+        <test-method status="PASS" signature="f()[pri:0, instance:usda.urla.poc.SearchInGoogleTest@6c49835d]" name="f" duration-ms="11384" started-at="2020-12-07T15:36:01 EST" finished-at="2020-12-07T15:36:13 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- usda.urla.poc.SearchInGoogleTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
