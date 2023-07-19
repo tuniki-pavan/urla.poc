@@ -3,7 +3,6 @@
 <suite name="Suite" parallel="true">
   <test name="Test">
     <classes>
-      <class name="usda.urla.poc.SearchInGoogleTest"/>  
       <class name="usda.urla.poc.SearchInJPTest"/>         
     </classes>
   </test> <!-- Test -->
